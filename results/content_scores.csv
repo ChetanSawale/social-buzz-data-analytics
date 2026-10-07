@@ -1,0 +1,485 @@
+Content ID,Content Type,Category,Total Score
+C0001,photo,Animals,260
+C0002,GIF,Science,1657
+C0003,video,Fitness,105
+C0004,photo,Food,285
+C0005,photo,Animals,150
+C0006,video,Science,215
+C0007,photo,Food,220
+C0008,audio,Science,180
+C0009,GIF,Education,210
+C0010,photo,Fitness,385
+C0011,video,Fitness,2027
+C0012,GIF,Healthy Eating,386
+C0013,video,Sports,130
+C0014,GIF,Animals,462
+C0015,audio,Animals,65
+C0016,GIF,Travel,242
+C0017,photo,Fitness,230
+C0018,photo,Sports,437
+C0019,audio,Animals,190
+C0020,GIF,Education,290
+C0021,GIF,Food,255
+C0022,photo,Animals,197
+C0023,video,Education,195
+C0024,photo,Education,5
+C0025,photo,Technology,300
+C0026,audio,Travel,2318
+C0027,GIF,Science,370
+C0028,GIF,Science,260
+C0029,GIF,Fitness,325
+C0030,photo,Travel,232
+C0031,video,Food,250
+C0033,audio,Healthy Eating,225
+C0034,video,Travel,40
+C0035,photo,Science,180
+C0036,photo,Education,1831
+C0037,audio,Healthy Eating,385
+C0038,video,Culture,300
+C0039,GIF,Science,347
+C0040,audio,Technology,407
+C0041,audio,Animals,320
+C0042,video,Science,530
+C0043,GIF,Fitness,72
+C0044,audio,Culture,355
+C0045,audio,Healthy Eating,540
+C0046,video,Food,317
+C0047,photo,Fitness,2257
+C0048,photo,Science,155
+C0049,video,Education,182
+C0050,audio,Food,322
+C0052,audio,Food,300
+C0053,photo,Travel,479
+C0054,photo,Travel,420
+C0055,GIF,Fitness,380
+C0056,GIF,Animals,280
+C0057,audio,Science,209
+C0058,photo,Sports,182
+C0059,GIF,Sports,297
+C0060,video,Food,280
+C0061,photo,Culture,342
+C0062,GIF,Education,195
+C0063,video,Science,2066
+C0064,video,Food,135
+C0065,photo,Food,2545
+C0066,audio,Animals,315
+C0067,GIF,Culture,562
+C0068,GIF,Science,300
+C0069,video,Culture,155
+C0070,photo,Animals,187
+C0071,audio,Education,75
+C0072,video,Animals,212
+C0073,audio,Sports,187
+C0074,video,Healthy Eating,317
+C0075,audio,Sports,175
+C0076,video,Fitness,1906
+C0077,audio,Sports,150
+C0078,GIF,Technology,145
+C0079,audio,Animals,195
+C0080,video,Animals,265
+C0081,photo,Food,387
+C0082,video,Food,222
+C0083,photo,Animals,457
+C0084,photo,Science,75
+C0085,photo,Education,195
+C0086,photo,Food,200
+C0087,GIF,Travel,265
+C0088,video,Food,522
+C0089,audio,Science,419
+C0090,audio,Education,255
+C0091,video,Animals,387
+C0092,audio,Healthy Eating,5
+C0093,audio,Technology,230
+C0094,photo,Travel,245
+C0095,photo,Animals,287
+C0096,GIF,Education,270
+C0097,photo,Science,235
+C0098,video,Food,1943
+C0099,video,Technology,135
+C0100,GIF,Technology,290
+C0101,photo,Technology,407
+C0102,photo,Animals,310
+C0103,photo,Sports,185
+C0104,video,Science,145
+C0105,audio,Food,240
+C0106,audio,Culture,1746
+C0107,video,Technology,1492
+C0108,audio,Healthy Eating,352
+C0109,audio,Healthy Eating,2418
+C0110,audio,Science,90
+C0111,GIF,Science,1661
+C0112,photo,Food,637
+C0113,photo,Fitness,327
+C0114,photo,Animals,290
+C0115,audio,Food,390
+C0117,photo,Education,235
+C0118,photo,Food,217
+C0119,video,Technology,347
+C0120,video,Food,1994
+C0122,audio,Travel,125
+C0123,GIF,Sports,227
+C0124,video,Travel,215
+C0125,GIF,Science,2322
+C0126,audio,Animals,222
+C0127,GIF,Technology,341
+C0128,photo,Animals,476
+C0129,photo,Animals,175
+C0130,video,Food,270
+C0131,video,Sports,280
+C0132,photo,Culture,285
+C0133,GIF,Healthy Eating,422
+C0134,audio,Education,20
+C0135,GIF,Travel,80
+C0136,photo,Travel,375
+C0137,GIF,Sports,220
+C0138,photo,Sports,80
+C0139,video,Healthy Eating,35
+C0140,photo,Fitness,135
+C0141,video,Healthy Eating,245
+C0143,video,Travel,192
+C0144,GIF,Food,65
+C0145,GIF,Culture,170
+C0146,photo,Animals,205
+C0147,audio,Education,235
+C0148,photo,Animals,110
+C0149,video,Travel,180
+C0150,GIF,Science,230
+C0151,audio,Food,165
+C0152,audio,Food,185
+C0153,photo,Animals,75
+C0154,video,Food,125
+C0155,GIF,Food,315
+C0156,video,Technology,295
+C0157,photo,Healthy Eating,427
+C0158,photo,Culture,135
+C0159,video,Travel,80
+C0160,photo,Healthy Eating,502
+C0161,audio,Sports,195
+C0162,video,Culture,200
+C0163,video,Culture,295
+C0164,video,Culture,165
+C0165,photo,Science,230
+C0166,GIF,Education,327
+C0167,audio,Education,142
+C0168,video,Healthy Eating,280
+C0169,photo,Technology,1561
+C0170,photo,Education,415
+C0171,video,Science,1939
+C0172,audio,Healthy Eating,282
+C0173,video,Science,635
+C0174,video,Technology,240
+C0175,GIF,Culture,282
+C0176,GIF,Healthy Eating,25
+C0177,audio,Travel,230
+C0178,GIF,Sports,225
+C0179,photo,Culture,337
+C0180,GIF,Science,310
+C0181,GIF,Animals,235
+C0182,audio,Healthy Eating,245
+C0183,GIF,Technology,342
+C0185,video,Healthy Eating,200
+C0187,video,Healthy Eating,305
+C0188,photo,Sports,257
+C0190,photo,Fitness,320
+C0191,GIF,Food,230
+C0192,audio,Healthy Eating,345
+C0193,GIF,Food,155
+C0194,video,Technology,245
+C0195,audio,Travel,347
+C0196,video,Travel,314
+C0197,GIF,Technology,377
+C0198,photo,Healthy Eating,60
+C0199,video,Technology,397
+C0200,GIF,Technology,297
+C0201,audio,Travel,172
+C0202,audio,Education,245
+C0203,video,Travel,175
+C0205,GIF,Animals,142
+C0206,video,Travel,487
+C0207,video,Education,287
+C0208,video,Animals,250
+C0209,video,Sports,391
+C0210,photo,Technology,195
+C0211,video,Fitness,567
+C0212,audio,Food,105
+C0213,video,Animals,400
+C0214,photo,Culture,150
+C0215,photo,Education,195
+C0216,video,Science,310
+C0217,audio,Animals,327
+C0218,video,Culture,45
+C0219,photo,Technology,472
+C0220,audio,Travel,215
+C0221,GIF,Sports,222
+C0222,audio,Travel,257
+C0223,audio,Education,249
+C0224,audio,Culture,442
+C0225,audio,Technology,395
+C0226,video,Education,222
+C0227,GIF,Fitness,779
+C0229,GIF,Technology,370
+C0230,GIF,Science,372
+C0231,GIF,Healthy Eating,115
+C0232,photo,Animals,0
+C0233,video,Technology,2288
+C0234,video,Fitness,497
+C0235,photo,Technology,257
+C0236,GIF,Food,95
+C0237,audio,Animals,429
+C0238,audio,Technology,352
+C0239,photo,Education,447
+C0240,audio,Food,220
+C0241,GIF,Healthy Eating,392
+C0242,audio,Education,290
+C0243,audio,Food,215
+C0244,video,Food,407
+C0245,GIF,Technology,212
+C0246,photo,Technology,260
+C0247,audio,Fitness,455
+C0248,audio,Culture,347
+C0249,photo,Culture,240
+C0250,photo,Animals,487
+C0251,audio,Animals,285
+C0252,audio,Science,155
+C0253,GIF,Technology,230
+C0254,video,Technology,250
+C0255,GIF,Fitness,425
+C0256,audio,Healthy Eating,222
+C0257,audio,Healthy Eating,250
+C0258,photo,Food,497
+C0259,photo,Sports,265
+C0260,GIF,Science,327
+C0261,photo,Education,260
+C0262,photo,Fitness,160
+C0263,video,Science,245
+C0264,photo,Travel,110
+C0265,video,Animals,15
+C0266,photo,Food,350
+C0267,video,Technology,225
+C0268,GIF,Fitness,247
+C0269,video,Travel,142
+C0270,photo,Education,215
+C0271,video,Sports,260
+C0272,photo,Food,220
+C0273,GIF,Food,244
+C0274,audio,Technology,582
+C0275,video,Animals,210
+C0276,video,Animals,610
+C0277,GIF,Education,300
+C0278,photo,Education,160
+C0280,audio,Travel,195
+C0281,photo,Food,247
+C0282,GIF,Animals,70
+C0283,audio,Education,142
+C0284,photo,Technology,2119
+C0285,GIF,Travel,190
+C0286,audio,Fitness,150
+C0287,audio,Science,125
+C0288,GIF,Travel,115
+C0289,audio,Technology,275
+C0290,GIF,Healthy Eating,2125
+C0291,video,Education,107
+C0292,photo,Healthy Eating,370
+C0293,audio,Science,335
+C0294,audio,Food,60
+C0295,audio,Healthy Eating,390
+C0296,audio,Education,165
+C0297,video,Food,345
+C0298,GIF,Education,217
+C0299,GIF,Healthy Eating,310
+C0300,GIF,Food,387
+C0301,video,Animals,1824
+C0302,audio,Food,307
+C0303,video,Fitness,380
+C0304,audio,Technology,447
+C0305,photo,Animals,259
+C0306,video,Technology,2288
+C0307,video,Healthy Eating,700
+C0308,GIF,Food,237
+C0309,GIF,Technology,470
+C0310,GIF,Healthy Eating,180
+C0311,audio,Healthy Eating,617
+C0312,GIF,Science,197
+C0313,video,Healthy Eating,277
+C0314,video,Science,230
+C0315,audio,Healthy Eating,117
+C0316,GIF,Sports,350
+C0317,video,Healthy Eating,152
+C0318,GIF,Science,294
+C0319,photo,Fitness,472
+C0320,video,Healthy Eating,252
+C0321,photo,Food,160
+C0322,video,Travel,195
+C0323,audio,Animals,245
+C0324,photo,Food,125
+C0325,audio,Food,265
+C0326,GIF,Science,115
+C0327,photo,Healthy Eating,115
+C0328,audio,Animals,1247
+C0329,photo,Technology,1921
+C0330,photo,Food,744
+C0332,GIF,Animals,190
+C0333,video,Animals,345
+C0334,audio,Travel,255
+C0335,video,Education,360
+C0336,audio,Technology,205
+C0337,audio,Healthy Eating,130
+C0338,audio,Healthy Eating,300
+C0339,photo,Travel,375
+C0340,photo,Sports,1696
+C0341,video,Travel,5
+C0342,GIF,Travel,110
+C0343,video,Science,354
+C0344,photo,Science,425
+C0345,audio,Technology,217
+C0346,audio,Healthy Eating,237
+C0347,video,Healthy Eating,235
+C0348,GIF,Fitness,402
+C0349,audio,Animals,257
+C0350,video,Culture,195
+C0351,video,Technology,195
+C0353,GIF,Education,322
+C0354,photo,Animals,160
+C0355,GIF,Food,314
+C0356,GIF,Technology,142
+C0357,audio,Travel,367
+C0358,audio,Sports,524
+C0359,audio,Technology,160
+C0360,photo,Culture,162
+C0361,GIF,Travel,349
+C0362,photo,Animals,280
+C0363,photo,Sports,322
+C0364,GIF,Food,92
+C0365,video,Food,380
+C0366,audio,Culture,65
+C0367,video,Sports,185
+C0368,audio,Travel,310
+C0369,audio,Sports,305
+C0370,audio,Healthy Eating,100
+C0371,GIF,Healthy Eating,150
+C0372,photo,Education,85
+C0373,GIF,Technology,55
+C0374,audio,Healthy Eating,425
+C0375,audio,Education,409
+C0376,photo,Technology,235
+C0377,GIF,Healthy Eating,304
+C0378,photo,Sports,180
+C0379,audio,Culture,347
+C0380,photo,Travel,80
+C0381,audio,Technology,175
+C0382,video,Food,260
+C0383,audio,Travel,479
+C0384,photo,Science,215
+C0385,video,Culture,415
+C0386,audio,Culture,270
+C0387,audio,Animals,160
+C0388,video,Fitness,225
+C0389,GIF,Food,325
+C0390,audio,Animals,400
+C0391,photo,Technology,315
+C0392,photo,Travel,2479
+C0393,video,Food,120
+C0394,GIF,Food,410
+C0395,GIF,Technology,240
+C0396,audio,Sports,290
+C0397,video,Technology,1566
+C0398,video,Technology,252
+C0399,video,Culture,415
+C0400,GIF,Education,295
+C0401,audio,Healthy Eating,500
+C0402,GIF,Education,160
+C0403,GIF,Fitness,1843
+C0404,audio,Culture,1409
+C0405,audio,Food,175
+C0406,GIF,Healthy Eating,392
+C0407,audio,Technology,357
+C0408,GIF,Culture,100
+C0409,video,Food,315
+C0410,video,Education,290
+C0411,audio,Animals,180
+C0412,audio,Fitness,175
+C0413,audio,Technology,160
+C0414,video,Food,200
+C0415,photo,Animals,225
+C0416,GIF,Culture,582
+C0417,audio,Animals,2404
+C0418,audio,Animals,300
+C0419,video,Technology,80
+C0420,video,Animals,110
+C0421,GIF,Healthy Eating,369
+C0422,audio,Travel,1671
+C0423,GIF,Education,320
+C0424,audio,Sports,185
+C0425,audio,Culture,2331
+C0426,photo,Travel,285
+C0427,video,Travel,510
+C0428,GIF,Sports,122
+C0429,photo,Technology,202
+C0430,photo,Fitness,335
+C0431,photo,Technology,95
+C0432,GIF,Culture,142
+C0433,photo,Healthy Eating,387
+C0434,photo,Healthy Eating,420
+C0435,GIF,Technology,1392
+C0436,video,Food,410
+C0437,video,Science,230
+C0439,audio,Travel,252
+C0440,video,Food,2265
+C0441,video,Science,150
+C0442,GIF,Technology,275
+C0443,photo,Culture,380
+C0444,audio,Culture,182
+C0445,video,Animals,135
+C0446,GIF,Sports,2565
+C0447,GIF,Travel,325
+C0448,audio,Fitness,310
+C0449,audio,Education,570
+C0450,video,Sports,170
+C0451,audio,Animals,200
+C0452,audio,Food,275
+C0453,GIF,Sports,235
+C0454,GIF,Animals,282
+C0455,audio,Healthy Eating,170
+C0456,photo,Culture,167
+C0457,audio,Education,100
+C0458,GIF,Education,177
+C0459,video,Travel,155
+C0460,GIF,Science,650
+C0461,video,Travel,257
+C0463,photo,Healthy Eating,175
+C0464,audio,Animals,365
+C0465,GIF,Fitness,245
+C0466,photo,Culture,100
+C0467,GIF,Fitness,242
+C0468,video,Science,240
+C0469,GIF,Food,287
+C0470,GIF,Education,400
+C0471,GIF,Culture,399
+C0472,audio,Sports,242
+C0473,GIF,Fitness,231
+C0474,GIF,Education,125
+C0475,audio,Sports,20
+C0476,video,Fitness,195
+C0477,video,Culture,510
+C0478,audio,Sports,170
+C0479,GIF,Animals,430
+C0480,audio,Animals,302
+C0481,photo,Technology,235
+C0482,GIF,Food,402
+C0483,GIF,Animals,310
+C0484,video,Food,345
+C0485,GIF,Culture,125
+C0486,video,Travel,2495
+C0488,GIF,Travel,90
+C0489,photo,Animals,154
+C0490,photo,Healthy Eating,237
+C0491,audio,Animals,536
+C0492,video,Culture,229
+C0493,video,Technology,295
+C0494,GIF,Travel,300
+C0495,audio,Food,565
+C0496,video,Culture,1749
+C0497,photo,Education,365
+C0498,audio,Sports,2354
+C0499,GIF,Animals,275
+C0500,GIF,Science,437
